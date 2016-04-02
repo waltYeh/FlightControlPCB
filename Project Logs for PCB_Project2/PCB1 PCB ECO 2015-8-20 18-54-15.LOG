@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=SCL Pin=Compass-2
+Removed Pin From Net: NetName=SDA Pin=Compass-3
+Removed Pin From Net: NetName=RXD1 Pin=GPS-2
+Removed Pin From Net: NetName=TXD1 Pin=GPS-3
+Change Component Designator: OldDesignator=Compass NewDesignator=P4
+Change Component Designator: OldDesignator=GPIO NewDesignator=P6
+Change Component Designator: OldDesignator=GPS NewDesignator=P3
+Change Component Designator: OldDesignator=JTAG NewDesignator=P5
+Change Component Designator: OldDesignator=MOTORS NewDesignator=P7
+Change Component Designator: OldDesignator=USB NewDesignator=P1
+Change Component Designator: OldDesignator=XBee NewDesignator=P2
+Added Pin To Net: NetName=RXD1 Pin=P3-3
+Added Pin To Net: NetName=SDA Pin=P4-2
+Added Pin To Net: NetName=SCL Pin=P4-3
+Added Room: Name=Sheet1

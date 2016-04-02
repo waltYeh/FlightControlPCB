@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=L1 Old Footprint=1206 New Footprint=0603
+Change Component Footprint: Designator=L2 Old Footprint=1206 New Footprint=1608[0603]
+Change Component Footprint: Designator=L5 Old Footprint=1206 New Footprint=1608[0603]
+Added Member To Class: ClassName=Sheet1 Member=Component U5 EEPROM

@@ -1,0 +1,36 @@
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=R29(1608[0603])
+Added Component: Designator=R30(1608[0603])
+Added Component: Designator=R33(1608[0603])
+Added Component: Designator=R34(1608[0603])
+Added Component: Designator=R35(1608[0603])
+Added Pin To Net: NetName=3.3V Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=5V Pin=R34-1
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R33-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=R31-1
+Added Pin To Net: NetName=NetR29_1 Pin=USB-2
+Added Net: Name=NetR29_1
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=NetR30_1 Pin=R32-1
+Added Pin To Net: NetName=NetR30_1 Pin=R33-2
+Added Pin To Net: NetName=NetR30_1 Pin=USB-3
+Added Net: Name=NetR30_1
+Added Pin To Net: NetName=PULLUP Pin=Q1-3
+Added Pin To Net: NetName=PULLUP Pin=U1-10
+Added Net: Name=PULLUP
+Added Pin To Net: NetName=VBUS MON Pin=R34-2
+Added Pin To Net: NetName=VBUS MON Pin=R35-2
+Added Pin To Net: NetName=VBUS MON Pin=U1-9
+Added Net: Name=VBUS MON
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 ZXM61P02F
+Added Member To Class: ClassName=Sheet1 Member=Component R29 330K
+Added Member To Class: ClassName=Sheet1 Member=Component R30 330K
+Added Member To Class: ClassName=Sheet1 Member=Component R33 1.5K
+Added Member To Class: ClassName=Sheet1 Member=Component R34 27K
+Added Member To Class: ClassName=Sheet1 Member=Component R35 47K

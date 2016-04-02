@@ -1,0 +1,10 @@
+Added Component: Designator=R36(ResPack)
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_3 Pin=R36-3
+Added Pin To Net: NetName=NetR36_4 Pin=R36-4
+Added Pin To Net: NetName=SPCK Pin=R36-5
+Added Pin To Net: NetName=MOSI Pin=R36-6
+Added Pin To Net: NetName=MISO Pin=R36-7
+Added Pin To Net: NetName=CS1 Pin=R36-8
+Added Member To Class: ClassName=Sheet1 Member=Component R36 100R*4

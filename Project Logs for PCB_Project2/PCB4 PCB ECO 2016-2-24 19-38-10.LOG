@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=BUTTON Pin=SWITCH-1
+Removed Pin From Net: NetName=GND Pin=SWITCH-2
+Removed Pin From Net: NetName=NetR37_1 Pin=SWITCH-3
+Added Pin To Net: NetName=GND Pin=SWITCH-1
+Added Pin To Net: NetName=NetR37_1 Pin=SWITCH-2
+Added Pin To Net: NetName=BUTTON Pin=SWITCH-3

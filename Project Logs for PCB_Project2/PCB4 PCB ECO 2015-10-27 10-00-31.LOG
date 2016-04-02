@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=R26 Old Footprint=SSOP16_L New Footprint=Resistances
+Change Component Footprint: Designator=R27 Old Footprint=SSOP16_L New Footprint=Resistances
+Change Component Footprint: Designator=R28 Old Footprint=SSOP16_L New Footprint=Resistances
+Added Component: Designator=U8(S5)
+Added Pin To Net: NetName=5V Pin=U8-1
+Added Pin To Net: NetName=AGND Pin=U8-2
+Added Pin To Net: NetName=5V Pin=U8-3
+Added Pin To Net: NetName=A3V3 Pin=U8-4
+Added Pin To Net: NetName=NetC36_2 Pin=U8-5
+Added Member To Class: ClassName=Sheet1 Member=Component U8 MIC5207LE33

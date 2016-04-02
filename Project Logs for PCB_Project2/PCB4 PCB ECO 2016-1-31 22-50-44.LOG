@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=3.3V Pin=ERASE-1
+Removed Pin From Net: NetName=ERASE Pin=ERASE-2
+Removed Pin From Net: NetName=3.3V Pin=TST-1
+Removed Pin From Net: NetName=TST Pin=TST-2
+Removed Member From Class: ClassName=Sheet1 Member=ERASE
+Removed Member From Class: ClassName=Sheet1 Member=TST
+Added Pin To Net: NetName=LED3 Pin=U1-44
+Added Net: Name=LED3

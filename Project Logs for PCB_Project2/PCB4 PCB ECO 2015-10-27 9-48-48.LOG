@@ -1,0 +1,9 @@
+Added Component: Designator=U10(MS_5611)
+Added Pin To Net: NetName=A3V3 Pin=U10-1
+Added Pin To Net: NetName=AGND Pin=U10-2
+Added Pin To Net: NetName=AGND Pin=U10-3
+Added Pin To Net: NetName=NetR26_4 Pin=U10-5
+Added Pin To Net: NetName=NetR26_3 Pin=U10-6
+Added Pin To Net: NetName=NetR26_2 Pin=U10-7
+Added Pin To Net: NetName=NetR26_1 Pin=U10-8
+Added Member To Class: ClassName=Sheet1 Member=Component U10 MS5611

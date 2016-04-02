@@ -1,0 +1,10 @@
+Added Component: Designator=R37(1608[0603])
+Added Component: Designator=SWITCH(3P_1.25mm£¨ÌùÆ¬£©)
+Added Pin To Net: NetName=LED3 Pin=R37-2
+Added Pin To Net: NetName=BUTTON Pin=SWITCH-1
+Added Pin To Net: NetName=GND Pin=SWITCH-2
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=SWITCH-3
+Added Net: Name=NetR37_1
+Added Member To Class: ClassName=Sheet1 Member=Component R37 1K
+Added Member To Class: ClassName=Sheet1 Member=Component SWITCH Safe_button

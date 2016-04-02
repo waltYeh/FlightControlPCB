@@ -1,0 +1,4 @@
+Added Component: Designator=P10(AD)
+Added Pin To Net: NetName=AD PORT Pin=P10-1
+Added Pin To Net: NetName=GND Pin=P10-2
+Added Member To Class: ClassName=Sheet1 Member=Component P10 AD_Port

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=CS0 Pin=R26-5
+Removed Pin From Net: NetName=MISO Pin=R26-6
+Removed Pin From Net: NetName=MOSI Pin=R26-7
+Removed Pin From Net: NetName=SPCK Pin=R26-8
+Added Pin To Net: NetName=CS0 Pin=R26-1
+Added Pin To Net: NetName=MISO Pin=R26-2
+Added Pin To Net: NetName=MOSI Pin=R26-3
+Added Pin To Net: NetName=SPCK Pin=R26-4
+Added Pin To Net: NetName=NetR26_5 Pin=R26-5
+Added Pin To Net: NetName=NetR26_5 Pin=U10-8
+Added Net: Name=NetR26_5
+Added Pin To Net: NetName=NetR26_6 Pin=R26-6
+Added Pin To Net: NetName=NetR26_6 Pin=U10-7
+Added Net: Name=NetR26_6
+Added Pin To Net: NetName=NetR26_7 Pin=R26-7
+Added Pin To Net: NetName=NetR26_7 Pin=U10-6
+Added Net: Name=NetR26_7
+Added Pin To Net: NetName=NetR26_8 Pin=R26-8
+Added Pin To Net: NetName=NetR26_8 Pin=U10-5
+Added Net: Name=NetR26_8

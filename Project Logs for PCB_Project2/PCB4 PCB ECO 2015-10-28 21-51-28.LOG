@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=5V Pin=MOTORS-2
+Removed Pin From Net: NetName=5V Pin=MOTORS-5
+Removed Pin From Net: NetName=5V Pin=MOTORS-8
+Removed Pin From Net: NetName=5V Pin=MOTORS-11
+Added Pin To Net: NetName=NetGPIO_2 Pin=MOTORS-2
+Added Pin To Net: NetName=NetGPIO_2 Pin=MOTORS-5
+Added Pin To Net: NetName=NetGPIO_2 Pin=MOTORS-8
+Added Pin To Net: NetName=NetGPIO_2 Pin=MOTORS-11
+Change Net Name : Old Net Name=NetGPIO_2 New Net Name=VIN

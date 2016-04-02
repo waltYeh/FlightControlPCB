@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=3.3V Pin=C33-2
+Removed Pin From Net: NetName=3.3V Pin=COMPASS-1
+Removed Pin From Net: NetName=GND Pin=COMPASS-4
+Removed Member From Class: ClassName=Sheet1 Member=C33

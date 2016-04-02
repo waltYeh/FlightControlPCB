@@ -1,0 +1,7 @@
+Added Component: Designator=D4(SMC)
+Added Pin To Net: NetName=5VB Pin=D4-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=L1-2
+Added Pin To Net: NetName=NetD4_1 Pin=R34-1
+Added Net: Name=NetD4_1
+Added Member To Class: ClassName=Sheet1 Member=Component D4 Diode

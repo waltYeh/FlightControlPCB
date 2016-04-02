@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=ADC Old Footprint=2P_1.25mm£¨ÌùÆ¬£© New Footprint=AD
+Change Component Footprint: Designator=COMPASS Old Footprint=4P_1.25mm£¨ÌùÆ¬£© New Footprint=Compass
+Change Component Footprint: Designator=XBEE Old Footprint=4P_1.25mm£¨ÌùÆ¬£© New Footprint=Compass
+Change Component Footprint: Designator=GPS Old Footprint=6P_PH1.25mm£¨ÌùÆ¬£© New Footprint=GPS 1.25x6

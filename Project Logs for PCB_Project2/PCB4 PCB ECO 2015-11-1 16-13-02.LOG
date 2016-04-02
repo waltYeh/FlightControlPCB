@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=ERASE Old Footprint=MHDR1X2 New Footprint=PIN2mm*2
+Change Component Footprint: Designator=TST Old Footprint=MHDR1X2 New Footprint=PIN2mm*2
+Change Component Comment : Designator=R28 Old Comment=Res Pack4 New Comment=47K*4
+Change Component Comment : Designator=R26 Old Comment=Res Pack4 New Comment=100R*4
+Change Component Comment : Designator=R27 Old Comment=Res Pack4 New Comment=100R*4

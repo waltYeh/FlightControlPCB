@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=5VB Pin=D4-2
+Removed Pin From Net: NetName=3.3V Pin=microSD-3
+Removed Pin From Net: NetName=GND Pin=microSD-5
+Removed Pin From Net: NetName=3.3V Pin=Q1-2
+Removed Pin From Net: NetName=MOSI Pin=R27-2
+Removed Pin From Net: NetName=SPCK Pin=R27-3
+Removed Pin From Net: NetName=MISO Pin=R27-4
+Removed Pin From Net: NetName=NetR30_1 Pin=R33-2
+Removed Member From Class: ClassName=Sheet1 Member=D4
+Removed Member From Class: ClassName=Sheet1 Member=microSD
+Removed Member From Class: ClassName=Sheet1 Member=Q1
+Removed Member From Class: ClassName=Sheet1 Member=R27
+Removed Member From Class: ClassName=Sheet1 Member=R33
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=R34-1
+Added Net: Name=NetL1_2

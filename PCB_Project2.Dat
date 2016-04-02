@@ -1,0 +1,49 @@
+Field=Comment~String~Comment~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project2.PrjPCB|ReportField=ProjectFullPath~E:\yExin\实验室\我研究过的\IHaveAll\BoardLastSPI\PCB_Project2.PrjPCB|ReportField=Title~Bill of Materials For Project [PCB_Project2.PrjPCB] (PCB Document : PCB4.PcbDoc)|ReportField=TotalQuantity~98|ReportField=ReportTime~20:26:36|ReportField=ReportDate~2016/3/10|ReportField=ReportDateTime~2016/3/10 20:26:36|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2016/3/10|ReportField=CurrentTime~20:18:32|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\yExin\实验室\我研究过的\IHaveAll\BoardLastSPI\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2016/3/10|ReportField=Organization~|ReportField=ProjectName~PCB_Project2.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project2.PrjPCB|ReportField=DataSourceFullPath~E:\yExin\实验室\我研究过的\IHaveAll\BoardLastSPI\PCB_Project2.PrjPCB|ReportField=PCBDataSourceFileName~PCB4.PcbDoc|ReportField=PCBDataSourceFullPath~E:\yExin\实验室\我研究过的\IHaveAll\BoardLastSPI\PCB4.PcbDoc
+AD_Port|ADC|2P_1.25mm（贴片）|1
+0.1u|C1, C2, C3, C4, C5, C6, C7, C14, C19, C20, C23, C24, C26, C30, C31, C35|1608[0603]|16
+10u|C8, C9, C32, C34, C37|1206|5
+0.01u|C10|1608[0603]|1
+2.2u|C11|0805|1
+1n|C12, C17|1608[0603]|2
+4.7u|C13|0805|1
+8p|C15, C16|1608[0603]|2
+10n|C18|1608[0603]|1
+1u|C21, C22, C41|1608[0603]|3
+2.2n|C25|1608[0603]|1
+470p|C36|1608[0603]|1
+2.2u|C38|1608[0603]|1
+COMPASS|COMPASS|4P_1.25mm（贴片）|1
+LED|D1, D2, D3|LED|3
+Diode|D4|1206|1
+3*7 PWMin|GPIO|HEADER3X7|1
+GPS|GPS|6P_PH1.25mm（贴片）|1
+0603Jumper|J1|1-2Jumper|1
+JTAG|JTAG|JTAG2|1
+Ferrite|L3, L4|1608[0603]|2
+|L7, L8|1608[0603]|2
+3*4P PWMout|MOTORS|header3x4|1
+ZXM61P02F|Q1|SOT23|1
+1K|R1, R9, R13, R17, R21, R37|1608[0603]|6
+10K|R2, R5, R6, R7, R8|1608[0603]|5
+1.5K|R3, R33|1608[0603]|2
+47K|R4, R14, R15, R35, R38|1608[0603]|5
+270R|R10, R11|1608[0603]|2
+220|R12, R16, R18, R19, R20, R22, R23|1608[0603]|7
+200K|R24|1608[0603]|1
+470K|R25|1608[0603]|1
+100R*4|R26|Resistances|1
+330K|R29, R30|1608[0603]|2
+22R|R31, R32|1608[0603]|2
+27K|R34|1608[0603]|1
+100R*4|R36|ResPack|1
+Push Button|SW1|switch|1
+Safe_button|SWITCH|3P_1.25mm（贴片）|1
+AT91SAM7S256-AU-001|U1|LQFP64_N|1
+LM1117N33|U2|SOT230P700X180-4N|1
+MPU6000|U3|LGANEW|1
+EEPROM|U5|EEPROM|1
+MIC5207LE33|U8|S5|1
+MS5611|U10|MS_5611|1
+USB_Receptacle|USB|micro_usb|1
+|X1|OSC2|1
+XBEE|XBEE|4P_1.25mm（贴片）|1

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetD4_1 Pin=L1-2
+Removed Pin From Net: NetName=NetC21_2 Pin=L2-2
+Removed Pin From Net: NetName=3.3V Pin=L5-2
+Removed Member From Class: ClassName=Sheet1 Member=L1
+Removed Member From Class: ClassName=Sheet1 Member=L2
+Removed Member From Class: ClassName=Sheet1 Member=L5
+Added Pin To Net: NetName=NetC21_2 Pin=GPS-1
+Added Pin To Net: NetName=NetD4_1 Pin=USB-1
+Added Pin To Net: NetName=3.3V Pin=XBEE-1

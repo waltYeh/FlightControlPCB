@@ -1,0 +1,11 @@
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=R33(1608[0603])
+Added Pin To Net: NetName=3.3V Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R33-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=PULLUP Pin=Q1-3
+Added Pin To Net: NetName=PULLUP Pin=U1-10
+Added Net: Name=PULLUP
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 ZXM61P02F
+Added Member To Class: ClassName=Sheet1 Member=Component R33 1.5K
